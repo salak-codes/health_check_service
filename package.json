@@ -1,0 +1,12 @@
+{
+  "name": "health_check_service",
+  "version": "1.0.0",
+  "description": "Simple Node.js health check service for monitoring endpoints",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
